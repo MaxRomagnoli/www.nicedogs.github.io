@@ -1,2 +1,2 @@
-# www.nicedogs.github.io-
+# www.nicedogs.github.io
 Nice Dogs website
