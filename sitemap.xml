@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://nicedogs.it/</loc>
+    <loc>https://www.nicedogs.it/</loc>
     <image:image>
-      <image:loc>https://nicedogs.it/IMG/cool_scratchy.png</image:loc>
+      <image:loc>https://www.nicedogs.it/IMG/cool_scratchy.png</image:loc>
     </image:image>
-    <lastmod>2024-06-06</lastmod>
+    <lastmod>2024-06-20</lastmod>
     <priority>1.00</priority>
   </url>
 </urlset>
