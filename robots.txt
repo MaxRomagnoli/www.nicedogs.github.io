@@ -1,10 +1,13 @@
 User-agent: *
 Allow: /
+Disallow: /contact_section.html
 Disallow: /easter_egg.html
 Disallow: /bootstrap-5.0.2-dist/*
+Disallow: /css/*
 Disallow: /Fonts/*
 Disallow: /jquery/*
+Disallow: /js/*
+Disallow: /PDF/*
 Disallow: /SVG/*
-Disallow: /swiper/*
 
 Sitemap: https://www.nicedogs.it/sitemap.xml
