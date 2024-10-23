@@ -11068,12 +11068,14 @@ html {
   color: #fff;
 }
 
-.footer a {
+.footer a,
+.copyright a {
   color: var(--bs-link-color);
   text-decoration: underline;
 }
 
-.footer a:hover {
+.footer a:hover,
+.copyright a:hover {
   color: var(--bs-link-hover-color);
 }
 
