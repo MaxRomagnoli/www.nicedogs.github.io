@@ -246,11 +246,12 @@ sup {
 }
 
 a {
-  color: var(--bs-link-color);
+  color: var(--bs-secondary);
   text-decoration: underline;
 }
+
 a:hover {
-  color: var(--bs-link-hover-color);
+  color: var(black);
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
