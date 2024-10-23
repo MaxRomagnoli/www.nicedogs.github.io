@@ -11100,4 +11100,6 @@ html {
   height: 100%;
   object-fit: cover;
   object-position: top center;
+  top: 0;
+  left: 0;
 }
