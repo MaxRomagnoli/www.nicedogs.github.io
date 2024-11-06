@@ -11103,3 +11103,12 @@ html {
   top: 0;
   left: 0;
 }
+
+.sold-out-text {
+  background-color: red;
+  border-radius: 10px;
+  padding: 5px 15px;
+  margin-bottom: 5px;
+  color: white;
+  font-weight: 800;
+}
